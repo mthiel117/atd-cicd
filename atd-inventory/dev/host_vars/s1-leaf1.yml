@@ -4,5 +4,5 @@ custom_structured_configuration_ethernet_interfaces:
     shutdown: true
   Ethernet3:
     shutdown: true
-  Ethernet6
+  Ethernet6:
     shutdown: true
